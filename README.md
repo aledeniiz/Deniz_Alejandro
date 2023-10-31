@@ -1,4 +1,4 @@
-# Deniz_Alejandro
+# Deniz_Alejandro Enlace de github https://github.com/aledeniiz/Deniz_Alejandro Alejandro Déniz Solana Cuenta de github: aledeniiz
 1º Explica que es un “Pull Request”:
 Una pull request es una solicitud que se hace a un repositorio para descargar informacion que este contiene, y a su vez tener acceso a él.
 
